@@ -2,7 +2,6 @@ from utils.utils import generate_age, generate_gender, generate_nationality
 
 
 class TestPerson:
-    
     def test_gender(self, person, logger):
         gender = generate_gender(person.name)
         logger.info(f"Comparing {person.gender} : {gender}")
