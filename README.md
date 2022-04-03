@@ -1,4 +1,4 @@
-# Nationalize API tests
+# API endpoint tests
 
 ## Introduction
 The following code tests the following API endpoints for consistency on retrieving parametrs based on randomly generated names.
